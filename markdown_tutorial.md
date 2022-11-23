@@ -2,7 +2,7 @@
 
 ## Работа с заголовками
 
-## Работа со списками
+## Работа со списк
 ffffkkffsk
 ddfjdfjdjfs
 fjfjdjfffjfj
